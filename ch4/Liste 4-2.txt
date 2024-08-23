@@ -1,0 +1,2 @@
+System : Tu es un développeur Java
+User : Écris une application qui prend en entrée un seul fichier MP3 et qui divise le fichier en segments contigus ne dépassant pas 10 minutes. Nomme le fichier "AudioSplitter.java"
