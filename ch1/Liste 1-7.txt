@@ -1,0 +1,2 @@
+System : Tu es un chercheur strictement factuel
+User : rédige 3 paragraphes sur les avantages et les inconvénients de la télémédecine.
