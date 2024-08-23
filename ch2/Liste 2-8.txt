@@ -1,0 +1,21 @@
+{
+  "id": "chatcmpl-7wUOFQ3S34scDLmrLdWTTqvHmXztQ",
+  "object": "chat.completion",
+  "created": 1694174199,
+  "model": "gpt-3.5-turbo-0613",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "content": "Java est largement utilisé en entreprise car il est indépendant de la plateforme, ce qui permet aux applications de s'exécuter sur n'importe quel système. En outre, Java dispose d'un écosystème vaste et mature avec une vaste gamme de bibliothèques, de cadres et d'outils, ce qui permet aux développeurs de créer plus facilement des applications d'entreprise robustes et évolutives."
+      },
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 32,
+    "completion_tokens": 55,
+    "total_tokens": 87
+  }
+}
