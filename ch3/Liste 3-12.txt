@@ -1,0 +1,8 @@
+System : Tu es un assistant utile
+User : Fatima [16:00 | 02/08/2019] : Salut tout le monde, j’ai un problème urgent ...
+User : Je suis ingénieur en assurance qualité dans l’entreprise. Donne-moi des suggestions sur les prochaines étapes.
+Model : GPT-4
+Temperature : 1
+Maximum length : 1200
+Top P : 0.75
+Frequency penalty : 0 Pénalité de présence : 0.5
