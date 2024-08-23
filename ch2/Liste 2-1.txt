@@ -1,0 +1,4 @@
+System : Tu es un développeur Java
+User : Prends la commande cURL suivante et convertis-la en Java. Nomme le fichier "ListModels.java".
+User: curl https://api.openai.com/v1/models \
+-H "Authorization: Bearer $OPENAI_API_KEY"
