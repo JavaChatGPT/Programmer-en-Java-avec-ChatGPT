@@ -1,0 +1,1 @@
+Décris 3 modèles de conception couramment utilisés par les développeurs Java et explique pourquoi ces modèles sont importants.
