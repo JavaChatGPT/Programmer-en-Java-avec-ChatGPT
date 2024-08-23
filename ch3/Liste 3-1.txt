@@ -1,0 +1,7 @@
+public Chat(String model, List<Message> messages, float temperature, int max_tokens, float top_p, int frequency_penalty,
+  int presence_penalty) {
+  this.model = model this.messages = messages;
+  this.temperature = temperature; this.max_tokens = max_tokens;
+  this.top_p = top_p;
+  this.frequency_penalty = frequency_penalty; this.presence_penalty = presence_penalty;
+}
