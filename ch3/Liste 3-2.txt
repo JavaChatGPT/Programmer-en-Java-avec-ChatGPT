@@ -1,0 +1,9 @@
+	Chat chat = Chat.builder()
+		.model(model)
+		.messages(messages)
+		.temperature(temperature)
+		.maxTokens(max_tokens)
+		.topP(top_p)
+		.frequencyPenalty(frequency_penalty)
+		.presencePenalty(presence_penalty)
+		.build() ;
