@@ -1,0 +1,8 @@
+System : Tu es un assistant utile
+User : Fatima [16:00 | 02/08/2019] : Salut tout le monde, j’ai un problème urgent...
+User : Explique cela en 3 phrases ou moins. 
+Model : gpt-4
+Temperature: 1
+Maximum length: 250
+Top P: 1
+Frequency penalty: 0 Presence penalty: 0
