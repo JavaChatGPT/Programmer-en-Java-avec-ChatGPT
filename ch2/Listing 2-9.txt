@@ -1,0 +1,26 @@
+System : Tu es un développeur Java
+
+User : Convertis la commande cURL suivante en Java. Assure-toi que l'URL et les clés de l'API sont des variables. Je veux utiliser la bibliothèque Jackson pour créer l'objet JSON dans la requête. Nomme la classe principale, ChatGPTClient, et crée des classes d'aide si nécessaire.
+ 
+User :
+curl https://api.openai.com/v1/chat/completions \
+  -H "Content-Type : application/json" \
+  -H "Authorization : Bearer $OPENAI_API_KEY”\
+  -d '{
+  "model" : "gpt-3.5-turbo",
+  "messages" : [
+    {
+      "role" : "system",
+      "content" : "Tu es un commercialisateur de produits".
+    },
+    {
+      "role" : "user",
+      " content " : "Explique pourquoi Java est si largement utilisé dans l'entreprise".
+    }
+  ],
+  "temperature": 1,
+  "max_tokens": 256,
+  "top_p": 1,
+  "frequency_penalty": 0,
+  "presence_penalty": 0
+}'
