@@ -1,0 +1,15 @@
+System : Tu es un développeur Java.
+
+User : Convertis le code suivant de cURL à Java, en utilisant OkHttp pour envoyer la requête. Assure-toi que ma requête est assortie d'un délai d'attente de 60 secondes. Interroge un seul dossier sur mon ordinateur local et envoie tous les fichiers du dossier au webservice. Nomme le fichier WhisperClient.java. 
+
+User: curl https://api.openai.com/v1/audio/transcriptions \
+  -H "Authorization: Bearer $OPENAI_API_KEY" \
+  -H "Content-Type: multipart/form-data" \
+  -F file="@/path/to/file/audio.mp3" \
+  -F model="whisper-1"
+
+Model : GPT-4
+
+Temperature: 1
+
+Maximum Length: 1150
