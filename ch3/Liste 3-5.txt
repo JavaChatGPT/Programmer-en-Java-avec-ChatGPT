@@ -1,0 +1,43 @@
+Fatima [16:00 | 02/08/2019] : Salut tout le monde, j'ai un problème urgent à discuter. Je viens d'avoir un appel avec un client qui subit des plantages d'application dès qu'ils la chargent. Ils sont vraiment frustrés. Est-ce qu'on peut régler ça au plus vite ? 😫
+
+Keith [16:01 | 02/08/2019] : Merci d'avoir attiré notre attention sur ce point, Fatima. Sautons sur cette question tout de suite. @John, peux-tu prendre la tête de l'enquête sur le problème puisque notre architecte est malade aujourd'hui ?
+
+John [16:02 | 02/08/2019] : Bien sûr, Keith. Je vais plonger dans la base de code et voir si je peux trouver des coupables potentiels pour les plantages.
+
+John [16:02 | 02/08/2019] : Fatima, pourrais-tu recueillir quelques informations supplémentaires auprès du client ? Demande-lui quel est l'appareil spécifique, le système d'exploitation et les mises à jour récentes qu'il a pu installer.
+
+Fatima [16:03 | 02/08/2019] : Absolument, John. Je vais tendre la main au client immédiatement et recueillir ces détails. Je vous mettrai tous au courant une fois que je les aurai.
+
+Dave [16:04 | 02/08/2019] : Je comprends l'urgence de la situation. Veillons à tenir le client informé de nos progrès 💯 Fatima . Nous ne voulons pas qu'ils se sentent laissés dans l'ignorance pendant ce processus de dépannage.
+
+Fatima [16:04 | 02/08/2019] : Définitivement, Dave. 👍 Je tiendrai le client au courant à intervalles réguliers, en lui fournissant toutes les informations pertinentes que nous découvrirons.
+
+John [16:20 | 02/08/2019] : J'ai vérifié la base de code, et jusqu'à présent, je n'ai pas trouvé de problèmes évidents. C'est étrange que l'application se bloque au chargement. Est-ce qu'il pourrait s'agir d'un problème lié à la mémoire ? Keith, avons-nous des rapports récents sur des fuites de mémoire ou une utilisation élevée de la mémoire ?
+
+Keith [16:22 | 02/08/2019] : Je vais sortir les journaux de surveillance, John, et vérifier s'il y a eu des anomalies liées à la mémoire dans les versions récentes. Je reviendrai vers toi à ce sujet.
+
+Fatima [17:01 | 02/08/2019] : Mise à jour rapide, tout le monde. Le client utilise un iPhone X fonctionnant sous iOS 15.1. Ils ont mentionné que le problème a commencé après la mise à jour de leur app il y a quelques jours 🤔.
+
+Keith [17:05 | 02/08/2019] : Merci pour cette mise à jour, Fatima. Ce sont des informations utiles. John, concentrons-nous sur le test de la dernière mise à jour de l'appli sur un simulateur d'iPhone X avec iOS 15.1 pour voir si nous pouvons reproduire le problème.
+
+John [17:06 | 02/08/2019] : Bonne idée, Keith. Je vais configurer l'émulateur et faire quelques tests tout de suite.
+
+Keith [17:30 | 02/08/2019] : John, des progrès dans la reproduction du problème sur l'émulateur ?
+
+John [17:32 | 02/08/2019] : Oui, Keith. J'ai réussi à reproduire le plantage sur l'émulateur. Il semble que ce soit lié à un problème de compatibilité avec iOS 15.1 🤯. Je soupçonne que c'est dû à un appel de méthode déprécié. Je vais le corriger et faire d'autres tests pour confirmer.
+
+John [18:03 | 02/08/2019] : Corrigé le problème de la méthode dépréciée, et l'appli ne plante plus au chargement. Il semble que nous ayons identifié et résolu le problème. Je vais préparer un correctif et te l'envoyer, Keith, pour qu'il soit examiné et déployé.
+
+Keith [18:04 | 02/08/2019] : 👏👏👏 Merci, veuillez me fournir le correctif dès que possible. Une fois que je l'aurai examiné, nous déploierons le correctif sur l'app store.
+
+Dave [18:06 | 02/08/2019] : Bon travail, l'équipe ! 🎉 John, merci de tenir le client informé des progrès et de lui faire savoir que nous avons un correctif prêt pour lui lors de la prochaine mise à jour de l'appli. Quelqu'un peut-il s'assurer que les notes de mise à jour reflètent cela ?
+
+John [18:07 | 02/08/2019] : Je le ferai, Dave. Je mettrai à jour le client et m'assurerai qu'il est au courant de la correction à venir.
+
+Keith [18:27 | 02/08/2019] : Patch revu et approuvé, John. Veuillez procéder à la mise à jour de l'application dans le magasin. Visons à ce que ce soit fait dans l'heure qui vient.
+
+John [18:26 | 02/08/2019] : Compris, Keith. Je suis en train de le télécharger maintenant.
+
+Fatima [18:38 | 02/08/2019] : Je viens d'informer le client de la correction. Ils sont soulagés et reconnaissants de notre réaction prompte. Merci à tous pour votre collaboration et votre rapidité d'action. C'est un plaisir de travailler avec une équipe aussi compétente !
+
+Dave [18:40 | 02/08/2019] : Bravo, l'équipe ! Vos efforts sont grandement appréciés. Nous avons réussi à tourner ce problème urgent en un temps record. Continuons à faire du bon travail ! 👍
