@@ -1,0 +1,1 @@
+User : J’ai un environnement Java 11, donc j’utilise des classes HTTP Java 11 pour les appels à l’API. Je préfère utiliser Java pur plutôt que Apache HttpClient.
