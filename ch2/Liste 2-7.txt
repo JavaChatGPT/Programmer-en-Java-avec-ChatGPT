@@ -1,0 +1,7 @@
+messages=[ 
+...
+   {
+      "role": "assistant",
+      "content": "Java est largement utilisé dans les entreprises pour plusieurs raisons...”
+   } 
+...
