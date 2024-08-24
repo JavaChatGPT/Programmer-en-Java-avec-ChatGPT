@@ -1,0 +1,16 @@
+System : Tu es un service qui aide à visualiser les podcasts.
+
+User : Lis la transcription suivante d'un podcast. Décris pour une personne malvoyante le contexte et le sujet qui représentent le mieux le thème général de l'épisode. Commence par l'une des phrases suivantes :
+- "Une photo de" 
+- "Une peinture de"
+- "Une photo macro de 35 mm de"
+- "L'art numérique de “
+
+User : Le soutien à This American Life provient de Squarespace…
+ 
+Model: gpt-4-32k
+Temperature: 1.47
+Maximum length: 150
+Top P: 0
+Frequency penalty: 0.33
+Presence penalty: 0
