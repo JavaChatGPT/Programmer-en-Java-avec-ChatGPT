@@ -13,9 +13,9 @@ import java.util.List;
 
 public class ChatGPTClient {
 
-	public static void main(String[] args) {
-    	String openAIKey = "";
-    	String endpoint = "https://api.openai.com/v1/chat/completions";
+   public static void main(String[] args) {
+      String openAIKey = "";
+      String endpoint = "https://api.openai.com/v1/chat/completions";
       String model = "gpt-4-1106-preview";
       float temperature = 1.0f;
       int max_tokens = 256;
