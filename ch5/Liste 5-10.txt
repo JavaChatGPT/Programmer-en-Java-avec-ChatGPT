@@ -1,0 +1,17 @@
+prompt : Crée une image hyperréaliste présentant un gros plan d'une araignée. 
+
+L'araignée est au centre de l'image, son corps et ses multiples pattes bien en évidence. Elle a des yeux noirs brillants disposés en rangées sur sa tête, entourés de fines structures ressemblant à des poils qui ajoutent à sa qualité de vie.
+
+Son corps et ses pattes, recouverts de poils fins et délicats de couleur beige clair et blanche créent un aspect givré. Des motifs et des textures complexes soulignent la complexité des crocs et des pièces buccales de l'araignée. Les pattes étendues de l'araignée soulignent son empressement. 
+
+L'arrière-plan présente une toile ou une surface recouverte de givre, ce qui renforce l'essence givrée de l'araignée. Il est principalement d'un ton bleu froid, contrastant fortement avec le beige et le blanc chauds de l'araignée. 
+
+L'éclairage met doucement en valeur l'araignée et les brins de l'arrière-plan. L'araignée est bien mise au point et l'arrière-plan est légèrement flou, ce qui attire l'attention sur les caractéristiques détaillées de l'araignée. 
+
+La perspective en gros plan et l'aspect givré et détaillé créent une atmosphère étrange et fascinante. La palette de couleurs est froide, dominée par les bleus et les blancs, avec des tons chauds subtils dans le corps de l'araignée qui ajoutent de la profondeur
+
+size : 1024x1024 
+model : dall-e-3 
+style : vivid 
+quality : hd 
+n : 1
