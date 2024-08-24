@@ -1,0 +1,47 @@
+prompt : Crée une image qui représente un personnage de jeu hyperréaliste situé dans un environnement urbain vibrant, peut-être dystopique. Voici une description détaillée :
+
+Apparition du personnage :
+Visage et expression : Le personnage est une jeune femme aux traits frappants et détaillés. Son expression est sérieuse et concentrée, suggérant la détermination et la résilience. Sa peau est lisse mais marquée de tatouages faciaux subtils ou d'améliorations cybernétiques qui ajoutent à son apparence futuriste.
+
+Cheveux : elle a des cheveux mi-longs coiffés de façon désordonnée mais volontaire, avec quelques mèches tombant sur son visage. Ses cheveux sont d'un brun foncé, avec quelques mèches éventuellement mises en valeur ou teintes, ce qui ajoute de la profondeur à son apparence.
+
+Yeux : Ses yeux sont d'un bleu-vert perçant, qui respire l'intensité et l'intelligence. Le détail des yeux est remarquable, avec une légère qualité de réflexion qui ajoute au réalisme.
+
+Vêtements et accessoires :
+
+Haut : Elle porte un débardeur jaune légèrement usé et sale, ce qui indique qu'elle n'est pas étrangère au travail physique ou aux conditions difficiles.
+
+Gilet : Par-dessus le débardeur, elle porte un gilet en cuir rouge sans manches avec des accents métalliques et un col montant. Le gilet est agrémenté de fermetures éclair, de boucles et d'écussons, ce qui contribue à son look robuste et fonctionnel.
+
+Ceintures et équipement utilitaire : Autour de sa taille, elle porte une large ceinture multifonctionnelle chargée de diverses pochettes, d'outils et éventuellement d'armes. La ceinture est fixée à l'aide d'une grande boucle et semble être faite d'un cuir robuste et usé.
+
+Gants : Elle porte des gants sans doigts qui offrent une protection tout en permettant une certaine dextérité. Les gants sont détaillés avec des sangles et des éléments métalliques, ce qui ajoute à son apparence tactique.
+
+Colliers et bijoux : Plusieurs colliers pendent autour de son cou, chacun avec des pendentifs et des perles différents, suggérant une signification personnelle ou un lien avec ses origines. Elle a également quelques bagues et peut-être des boucles d'oreilles qui ajoutent des détails subtils à son look général.
+
+Couvre-chef :
+
+Lunettes : Sur sa tête, elle porte une paire de lunettes futuristes avec des lentilles éclairées au néon. Les lunettes sont encombrantes et industrielles, avec des fils et des pièces métalliques, ce qui suggère qu'elles servent à autre chose qu'à protéger les yeux, peut-être à améliorer la vision ou à assurer d'autres fonctions.
+
+Environnement :
+
+Cadre urbain : L'arrière-plan est un environnement urbain animé, rempli de couleurs vives et d'activités. On dirait un marché ou une rue animée d'une ville futuriste, avec des enseignes en différentes langues, des bannières suspendues et un mélange d'architecture moderne et traditionnelle.
+Éclairage : L'éclairage est naturel, la lumière du soleil filtrant à travers les espaces étroits entre les bâtiments, projetant des ombres douces et illuminant les traits du personnage. Les néons des enseignes ajoutent une lueur colorée à la scène.
+
+Palette de couleurs :
+
+Vibrant et contrasté : La palette de couleurs globale est riche et variée, les tons chauds de ses vêtements contrastant avec les teintes plus froides et plus vives de l'arrière-plan urbain. Les tons rouges, jaunes et bruns de sa tenue se détachent des bleus et des violets du paysage urbain.
+
+Humeur et atmosphère :
+
+Dynamique et grinçant : L'atmosphère est dynamique et légèrement grinçante, ce qui convient à un jeu se déroulant dans un futur animé, peut-être dystopique. Les vêtements et l'équipement du personnage suggèrent qu'elle est débrouillarde et prête à relever divers défis.
+
+Aventureuse et intense : L'expression et l'équipement du personnage laissent présager une vie d'aventure et d'intensité, ce qui en fait un personnage attachant et convaincant dans la narration du jeu.
+
+Cette description capture l'apparence détaillée et hyperréaliste du personnage du jeu, en se concentrant sur sa tenue, son équipement et le cadre urbain animé, soulignant ainsi la qualité dynamique et immersive de l'image.
+
+size : 1024x1024 
+model : dall-e-3
+style : vivid 
+quality : standard 
+n : 1
