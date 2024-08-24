@@ -1,0 +1,14 @@
+
+prompt : Génère un portrait hyperréaliste et éthéré d'une femme sud-asiatique. 
+
+Elle possède une expression sereine et contemplative, ses yeux sont fermés dans la tranquillité et l'introspection. Ses traits sont doux et délicats, avec une peau lisse et une attitude calme. Sa tenue comprend un grand chapeau rose translucide et lumineux ressemblant à une auréole, un tour de cou rayonnant détaillé et des boucles d'oreilles simples et élégantes. 
+
+Elle est vêtue d'une robe blanche fluide et transparente avec un haut décolleté et des manches longues. L'arrière-plan présente un vaste paysage avec un ciel dégradé passant du rose doux au bleu pâle au-dessus d'un champ d'herbe flou. 
+
+L'éclairage est doux et diffus, provenant principalement du chapeau et du collier lumineux qui accentuent les tons pastel de rose, de bleu et de blanc. Les hautes lumières et les ombres sont finement rendues, soulignant le réalisme et l'ambiance éthérée et onirique de l'image
+
+size : 1024x1024 
+model : dall-e-3 
+style : natural 
+quality : standard 
+n : 1
