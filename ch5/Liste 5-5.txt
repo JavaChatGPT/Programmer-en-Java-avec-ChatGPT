@@ -1,0 +1,17 @@
+prompt : Crée une image d'une maison de maître adaptée à un site Internet de réservation de courts séjours. 
+
+La scène doit représenter un intérieur grandiose et orné qui rappelle un palais, peut-être un couloir ou une salle de bal, avec des détails architecturaux complexes et des décorations somptueuses. 
+
+Les couleurs utilisées devraient être principalement des verts doux, des crèmes et des ors, avec des murs ornés de moulures et de panneaux détaillés. La pièce doit présenter de grandes portes doubles en bois foncé avec des ornements dorés, et des fenêtres cintrées de chaque côté pour laisser entrer la lumière naturelle. 
+
+Le plafond devrait comporter de riches fresques, des motifs floraux et un grand lustre en métal foncé avec des accents dorés. 
+
+Le sol doit être constitué d'un damier de grands carreaux de marbre noir et blanc, et le long de la base des murs, il doit y avoir des lambris en marbre. Pour compléter l'architecture, ajoute des pilastres avec des chapiteaux et des bases en or. 
+
+L'image doit dégager un sentiment d'élégance intemporelle et une atmosphère luxueuse.
+
+size : 1024x1024
+model : dall-e-3
+style : vivid
+quality : standard 
+n : 1
