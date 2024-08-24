@@ -1,0 +1,7 @@
+prompt : crée un logo pour une entreprise de composants électroniques qui met l'accent sur le développement durable. Fais en sorte que le logo soit vert et prenne la forme d'un MCU ou d'un semi-conducteur similaire. 
+
+Mets l'accent sur la simplicité et un design épuré. Utilise l'art vectoriel, le design minimaliste, le contraste élevé, l'illustration numérique, les lignes nettes, les bords propres.
+
+size : 1024x1024
+model : dall-e-3
+n : 1
