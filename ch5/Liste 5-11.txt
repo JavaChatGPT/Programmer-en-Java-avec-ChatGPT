@@ -1,0 +1,42 @@
+prompt : Crée un dessin de L'image représente un personnage de jeu, probablement une figure âgée et mystique, à l'apparence riche et détaillée. Voici une description détaillée :
+
+Apparition du personnage :
+
+Visage et expression : Le personnage est une personne âgée avec un visage profondément marqué qui parle d'âge et de sagesse. Son expression est sévère et contemplative, avec des yeux qui semblent renfermer une foule de connaissances et d'expériences. La peau est altérée par les intempéries, montrant des rides profondes et une structure osseuse solide.
+
+Cheveux : Les cheveux sont longs, blancs et tressés en deux tresses épaisses qui pendent sur les épaules. Les tresses sont bien faites, mais des mèches s'échappent, ce qui ajoute à l'aspect robuste et habité du personnage.
+
+Vêtements et accessoires :
+
+Robes et manteaux : Le personnage est drapé dans de lourdes robes sombres ornées de motifs complexes. Les motifs semblent être de nature runique ou tribale, ce qui suggère un lien avec d'anciennes traditions ou la magie. La cape est munie d'un capuchon qui est actuellement rabattu, révélant les motifs détaillés du tissu.
+
+Bâton : Dans une main, le personnage tient un bâton en bois. Le bâton est noueux et tordu, avec une tête d'animal sculptée au sommet, peut-être un loup ou un dragon. Ce bâton indique le rôle du personnage en tant que figure magique ou spirituelle.
+
+Colliers et amulettes : Autour du cou, le personnage porte plusieurs colliers. Une amulette proéminente est suspendue à un cordon et présente un motif géométrique qui semble magique ou symbolique. D'autres amulettes et perles plus petites sont également visibles.
+Ceinture et accessoires : La taille est serrée par une large ceinture qui contient diverses pochettes et de petits outils. De la ceinture pend un petit objet ressemblant à une lanterne, ce qui ajoute à l'aspect mystique du personnage.
+
+Gants et bracelets : Les mains du personnage sont partiellement couvertes par des gants sans doigts, également décorés de motifs complexes. Des bracelets ou des brassards sont visibles, assortis au reste de la tenue ornée.
+
+Conception générale et texture :
+
+Schéma de couleurs : L'image est rendue en monochrome, avec des nuances de noir, de blanc et de gris. Cela donne au personnage un aspect intemporel et classique, en mettant l'accent sur les textures et les détails des vêtements et des accessoires.
+
+Textures : Les textures sont très détaillées, le tissu des robes présentant des plis, de l'usure et des broderies élaborées. Le bâton a une texture rugueuse et naturelle, qui contraste avec la douceur des accessoires en métal et en cuir.
+
+Atmosphère : L'atmosphère générale est celle d'une sagesse et d'un pouvoir anciens. Le personnage semble être un sage ou un chaman, profondément lié à la magie et aux connaissances anciennes.
+
+Contexte :
+
+Minimaliste : L'arrière-plan est minimaliste, mettant entièrement l'accent sur le personnage. Ce manque de détails en arrière-plan suggère que c'est le personnage lui-même qui détient l'histoire et l'environnement auquel il appartient.
+
+Humeur et rôle du personnage :
+
+Mystérieux et puissant : Le personnage dégage un air de mystère et d'autorité. Il joue probablement un rôle de guide, de mentor ou de figure puissante dans le jeu, avec des capacités et des connaissances cruciales pour le scénario.
+
+Cette description capture les détails complexes et l'aura du personnage âgé et mystique, en mettant l'accent sur son âge, sa sagesse et la richesse de ses vêtements, ce qui en fait une figure incontournable de la narration du jeu.
+
+size : 1024x1024
+model : dall-e-3
+style : vivid 
+quality : standard 
+n : 1
