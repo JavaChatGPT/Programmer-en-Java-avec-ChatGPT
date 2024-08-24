@@ -1,0 +1,11 @@
+prompt : crée un logo ludique et appétissant pour une entreprise de pain à l'ail. Le logo représente une tranche de pain à l'ail brun doré, dont un morceau est surmonté de gousses d'ail entières et épluchées. 
+
+Le pain semble moelleux et légèrement grillé, et il y a un brin de vert, représentant probablement des herbes comme le persil, qui ajoute une touche de fraîcheur. La forme générale du logo ressemble à un bulbe d'ail, les gousses étant disposées sur le dessus du pain. 
+
+Cette conception créative incorpore intelligemment des éléments du produit pour améliorer son attrait visuel, ce qui la rend à la fois fantaisiste et pertinente pour la marque
+
+size : 1024x1024
+model : dall-e-3 
+style : vivid 
+quality : standard
+n : 1
