@@ -1,0 +1,42 @@
+prompt : Crée une photo qui dépeint une scène d'intérieur douillette, probablement dans une garderie ou à la maison. Voici une description détaillée :
+
+Cadre général :
+Lieu : La scène se déroule à l'intérieur, peut-être dans une garderie ou une maison. L'arrière-plan comporte de grandes fenêtres qui laissent entrer la lumière naturelle, créant ainsi une atmosphère chaleureuse et accueillante.
+
+Avant-plan :
+Les enfants : Il y a trois petits enfants, probablement des bambins, qui sont le centre d'intérêt principal de l'image.
+
+Enfant de gauche : Cet enfant est assis par terre, dos à l'appareil photo. Il porte un bavoir vert à pois roses sur une chemise blanche et un pantalon rayé.
+
+Enfant du milieu : L'enfant du milieu est partiellement visible, il interagit avec la personne qui s'occupe de lui. Il porte une tenue à motifs, mais les détails sont partiellement masqués par les autres enfants.
+
+Enfant à droite : Cet enfant est debout et se tient à un rail en bois fixé au mur. Il est vêtu d'un haut à carreaux roses et blancs et d'un legging rose, le dos également tourné vers la caméra.
+
+Contexte :
+La personne qui s'occupe de l'enfant : Un adulte qui s'occupe des enfants est présent et s'occupe d'eux. La personne qui s'occupe des enfants porte une chemise à rayures et un tablier vichy rose par-dessus. Il est attentif et semble guider les enfants ou interagir avec eux.
+
+Détails intérieurs : La pièce comprend des éléments typiques d'un environnement de garde d'enfants :
+
+Fenêtres et lumière : Les grandes fenêtres offrent une vue sur la verdure à l'extérieur et laissent entrer beaucoup de lumière du jour, ce qui éclaire l'espace.
+
+Décorations murales : Les murs présentent diverses décorations et du matériel éducatif, comme des tableaux ou des œuvres d'art, ce qui suggère un environnement nourricier et éducatif.
+
+Meubles et jouets : Bien qu'ils ne soient pas au centre de l'attention, certains jouets et meubles sont partiellement visibles, contribuant au cadre fonctionnel et ludique.
+
+Couleurs et éclairage :
+
+Palette de couleurs : L'image utilise une palette de couleurs douces et chaudes avec des pastels et des tons naturels. Les vêtements des enfants ajoutent des touches de couleur qui contrastent avec l'arrière-plan neutre.
+Éclairage : La lumière naturelle est la principale source d'éclairage, créant une atmosphère douce et apaisante. La lumière met en valeur les enfants et la personne qui s'occupe d'eux, attirant l'attention sur leurs interactions.
+
+Humeur et atmosphère :
+
+Calme et stimulant : L'ambiance générale est calme et stimulante. Les postures détendues des enfants et la présence attentive de la personne qui s'occupe d'eux suggèrent un environnement sûr et bienveillant.
+
+Engagement et interaction : La scène capture un moment d'engagement et d'interaction entre la personne qui s'occupe des enfants et les enfants, soulignant l'importance de la connexion et des soins dans les milieux de la petite enfance.
+Cette description capture l'essence de la scène intérieure, en soulignant les interactions entre la personne qui s'occupe des enfants et les enfants, ainsi que l'atmosphère chaleureuse et invitante du cadre.
+
+size : 1024x1024
+model : dall-e-3 
+style : natural
+quality : standard 
+n : 1
