@@ -1,0 +1,61 @@
+prompt : Crée une peinture numérique très détaillée d'un personnage orc. Voici une description complète :
+
+Apparition du personnage :
+
+Espèce : Le personnage est un orc, identifiable à sa peau verte, ses défenses proéminentes et ses oreilles pointues.
+
+Sexe : Femme, comme l'indiquent les traits de son visage, sa corpulence et sa tenue vestimentaire.
+Caractéristiques du visage :
+Peau : Sa peau est d'un vert riche et vibrant, avec des ombres et des reflets qui ajoutent de la profondeur et du réalisme.
+
+Yeux : Les yeux sont d'un jaune frappant et ont une expression féroce et intense. Ils ont un effet légèrement luisant, ce qui ajoute à son apparence menaçante.
+
+Défenses : Elle a deux défenses proéminentes qui dépassent de sa mâchoire inférieure, ce qui ajoute à son allure agressive et redoutable.
+
+Oreilles : ses oreilles sont longues, pointues et ornées de multiples piercings, notamment des anneaux et des petites chaînes.
+
+Les cheveux :
+
+Style : Ses cheveux sont foncés, presque noirs, et coiffés en une queue de cheval haute qui descend en cascade dans son dos, avec des mèches lâches qui encadrent son visage. Les cheveux sont légèrement ébouriffés et balayés par le vent.
+
+Détails : Les cheveux sont détaillés avec des mèches individuelles et des reflets subtils, ce qui renforce l'effet réaliste.
+
+Vêtements et accessoires :
+
+Haut : elle porte un haut sans manches fait d'un tissu sombre qui contraste avec sa peau verte. Le haut est maintenu par des boucles et des sangles, ce qui lui donne une allure robuste et prête au combat.
+
+Armure : Il y a des pièces d'armure, en particulier sur son épaule et le haut de ses bras, qui comprennent des éléments métalliques et des sangles. L'armure est fonctionnelle et légèrement usée, ce qui indique une utilisation fréquente.
+
+Tatouages : Sa peau est ornée de tatouages tribaux, particulièrement visibles sur le haut de ses bras et de ses épaules. Les tatouages sont complexes et ajoutent un élément culturel à son apparence.
+
+Bijoux : En plus de ses piercings aux oreilles, elle porte un collier et d'autres petits accessoires qui contribuent à son look détaillé et personnalisé.
+
+Contexte :
+
+Couleur : L'arrière-plan est un dégradé de couleurs chaudes, passant d'un orange profond en bas à un jaune plus clair en haut. Ce dégradé met en valeur les tons chauds du personnage et la fait ressortir.
+
+Simple et propre : L'arrière-plan est simple, ce qui garantit que l'attention reste entièrement portée sur le personnage.
+
+Éclairage et ombres :
+Éclairage : L'éclairage est dramatique, avec une forte source de lumière qui crée des ombres profondes et des reflets lumineux. Cet éclairage renforce la tridimensionnalité du personnage.
+
+Points saillants : Il y a des reflets subtils sur sa peau, ses cheveux et son armure, suggérant une surface réfléchissante et légèrement brillante.
+
+Humeur et atmosphère :
+
+Féroce et déterminé : L'ambiance générale de l'image est féroce et déterminée. L'expression du personnage, combinée à sa tenue prête au combat et à son regard intense, transmet la force et la préparation au combat.
+Dynamique et engageant : La pose dynamique et le rendu détaillé rendent le personnage attachant et visuellement frappant.
+
+Style artistique :
+
+Peinture numérique : Le style est très détaillé et réaliste, typique des peintures numériques de haute qualité. L'artiste a utilisé une combinaison de bords doux et durs, de textures détaillées et d'ombres soignées pour créer un aspect réaliste.
+
+Couleurs vives : L'utilisation de couleurs vives, en particulier le vert contrasté de la peau sur le fond chaud, crée une image visuellement attrayante et accrocheuse.
+
+Cette description rend compte de la nature détaillée et dynamique de la peinture numérique, en soulignant l'apparence féroce du personnage et le haut niveau de compétence artistique qu'elle implique.
+
+size : 1024x1024 
+model : dall-e-3
+style : vivid 
+quality : standard 
+n : 1
