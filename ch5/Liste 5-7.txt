@@ -1,0 +1,11 @@
+prompt : Crée une icône d'application atmosphérique représentant un grand manoir victorien qui dégage une aura sinistre. Le manoir est sombre et délabré avec de la peinture en décomposition, des fenêtres cassées, du lierre rampant le long des murs et un toit abrupt bordé de pignons et de flèches gothiques. 
+
+L'entrée est grandiose mais décrépite et ombragée, marquée par un portail en fer forgé partiellement ouvert, rouillé et orné de motifs complexes. Le chemin qui mène à la maison est envahi par la végétation et jonché de feuilles mortes. 
+
+Autour de la propriété se trouvent des arbres aux branches noueuses, projetant des ombres tordues. L'éclairage général est faible et ombragé, projetant une lumière sinistre à travers les arbres et les fenêtres cassées. La palette de couleurs est principalement composée de gris sombres et de noirs, avec des verts sourds contrastés et des teintes de rouille pour les reflets. L'ambiance générale est celle d'un mystère inquiétant, parfait pour une icône d'application de maison hantée immersive.
+
+size : 1024x1024
+model : dall-e-3
+style : natural 
+quality : hd 
+n : 1
