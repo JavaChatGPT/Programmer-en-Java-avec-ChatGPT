@@ -1,0 +1,17 @@
+prompt : Conçois une icône d'application consistant en un dessin au trait en noir et blanc d'un chien Chow Chow. 
+
+Ce chien est marqué par le caractère duveteux de sa fourrure et son visage large. Il a une expression amicale et satisfaite, avec une bouche ouverte et une langue légèrement proéminente, respirant la gaieté. 
+
+Le dessin est marqué par la précision de ses lignes, capturant la texture de la fourrure du chien et les contours de son visage. 
+
+Les yeux du chien sont expressifs et détaillés, son nez est nettement dessiné, et sa bouche et sa langue sont esquissées avec une légère texture. 
+
+Le fond de l'image est simple et de couleur claire, mettant en valeur le dessin monochromatique du chien. Le style du dessin penche vers le trait réaliste et son atmosphère invite à la convivialité et à la créativité, ce qui le rend idéal pour une appli de livre de coloriage. 
+
+Le design est clair et concis, présentant l'objectif de l'appli en un coup d'œil
+
+size : 1024x1024 
+model : dall-e-3 
+style : vivid
+quality : hd 
+n : 1
