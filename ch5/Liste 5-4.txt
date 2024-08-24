@@ -1,0 +1,20 @@
+prompt : créer un logo pour un magazine de mode féminin. Le logo lui-même est une représentation minimaliste et abstraite du visage d'une femme, sur un fond noir uni. Le design utilise principalement des couleurs audacieuses et contrastées et des lignes douces et fluides pour créer un effet visuel saisissant.
+
+
+Arrière-plan : L'arrière-plan est entièrement noir, ce qui offre un contraste saisissant avec les éléments du visage et souligne la simplicité et l'audace du dessin. 
+Éléments du visage :
+Teint de la peau : Les parties visibles du visage sont d'une couleur beige clair, créant un contour lisse et incurvé du front, du nez et des pommettes. 
+Lèvres : les lèvres sont l'élément le plus vivant, peintes dans un rouge vif et vibrant. Elles sont pleines et légèrement séparées, ce qui ajoute une touche de réalisme et d'allure.
+ Zone des yeux : Un seul œil est partiellement visible. L'œil lui-même est fermé, avec un long cil recourbé. Sous l'œil, il y a une tache triangulaire de sarcelle, qui ajoute une touche de couleur et accentue la nature abstraite de l'image.
+ Cheveux : les cheveux sont représentés par des formes noires fluides qui se confondent avec le fond, entrecoupées de reflets beiges. Ces formes se courbent élégamment autour du visage, ce qui ajoute à l'impression de fluidité et de dynamisme du dessin.
+ Formes et lignes :
+Le design se caractérise par des lignes et des formes lisses et fluides qui se fondent les unes dans les autres de façon transparente. Les lignes sont nettes et précises, ce qui crée un sentiment de mouvement et de grâce. 
+L'interaction entre les zones noires, beiges et sarcelles crée un sentiment de profondeur et de dimension, malgré la planéité générale de l'image.
+Cette représentation abstraite se concentre sur le minimalisme et l'interaction de couleurs audacieuses et de lignes épurées pour transmettre un sentiment de beauté et d'élégance
+
+
+size : 1024x1024
+model : dall-e-3 
+style : natural
+quality : hd 
+n : 1
