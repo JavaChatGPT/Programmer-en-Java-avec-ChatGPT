@@ -1,0 +1,37 @@
+[mp3 @ 0x139e9c6a0] Estimating duration from bitrate, this may be inaccurate
+Input #0, mp3, from '/Users/me/thislife/ep811.mp3':
+  Metadata:
+    encoder         : Lavf58.78.100
+    comment         : preroll_1;postroll_1
+  Duration: 00:58:58.34, start: 0.000000, bitrate: 128 kb/s
+  Stream #0:0: Audio: mp3, 44100 Hz, stereo, fltp, 128 kb/s
+Output #0, mp3, to '/Users/me/thislife/segments/segment_1.mp3':
+  Metadata:
+    TSSE            : Lavf60.3.100
+  Stream #0:0: Audio: mp3, 44100 Hz, stereo, fltp, 192 kb/s
+[libmp3lame @ 0x139ea92e0] 2 frames left in the queue on closing
+Output #0, mp3, to '/Users/me/thislife/segments/segment_2.mp3':
+  Metadata:
+    TSSE            : Lavf60.3.100
+  Stream #0:0: Audio: mp3, 44100 Hz, stereo, fltp, 192 kb/s
+[libmp3lame @ 0x13b167720] 2 frames left in the queue on closing
+Output #0, mp3, to '/Users/me/thislife/segments/segment_3.mp3':
+  Metadata:
+    TSSE            : Lavf60.3.100
+  Stream #0:0: Audio: mp3, 44100 Hz, stereo, fltp, 192 kb/s
+[libmp3lame @ 0x13b166df0] 2 frames left in the queue on closing
+Output #0, mp3, to '/Users/me/thislife/segments/segment_4.mp3':
+  Metadata:
+    TSSE            : Lavf60.3.100
+  Stream #0:0: Audio: mp3, 44100 Hz, stereo, fltp, 192 kb/s
+[libmp3lame @ 0x13b166df0] 2 frames left in the queue on closing
+Output #0, mp3, to '/Users/me/thislife/segments/segment_5.mp3':
+  Metadata:
+    TSSE            : Lavf60.3.100
+  Stream #0:0: Audio: mp3, 44100 Hz, stereo, fltp, 192 kb/s
+[libmp3lame @ 0x139ea35f0] 2 frames left in the queue on closing
+Output #0, mp3, to '/Users/me/thislife/segments/segment_6.mp3':
+  Metadata:
+    TSSE            : Lavf60.3.100
+  Stream #0:0: Audio: mp3, 44100 Hz, stereo, fltp, 192 kb/s
+[libmp3lame @ 0x139ea3540] 2 frames left in the queue on closing
