@@ -1,0 +1,23 @@
+Moi : Comment vas-tu aujourd'hui ?
+
+Q et A Bot : En tant qu'assistant virtuel, je n'ai pas d'émotions, mais merci de demander! Comment puis-je t'aider aujourd'hui avec l'application mobile Crooks Bank?
+
+Moi : J'ai un vieux téléphone Blackberry, est-ce que l'application est compatible avec mon appareil ?
+
+Q et R Bot : Je m'excuse, mais l'information que j'ai mentionne que l'application mobile de la Crooks Bank est disponible pour le téléchargement sur l'App Store pour les appareils iOS et Google Play pour les appareils Android. Je n'ai pas reçu d'information spécifique sur la compatibilité de l'application avec les appareils Blackberry. Il serait préférable de contacter le service client de la Crooks Bank pour obtenir des informations plus précises à ce sujet.
+
+Moi : Si j'utilise un iPhone, comment dois-je configurer l'application ?
+
+Q et R Bot : Pour configurer l'application mobile de la Crooks Bank sur ton iPhone, tu dois d'abord télécharger l'application à partir de l'App Store.
+1. Ouvre l'App Store sur ton iPhone.
+2. Tape "Crooks Bank" dans la barre de recherche.
+3. Localise l'application mobile de la Crooks Bank et clique sur le bouton "Installer".
+4. Une fois l'application installée, ouvre-la en cliquant sur son icône.
+5. Si c'est la première fois que tu utilises l'application, il te sera demandé de créer un compte ou de te connecter si tu disposes déjà d'un compte.
+6. Lors de la création du compte, tu devras fournir des informations bancaires pour associer ton compte bancaire à l'application.
+7. Ensuite, suit les instructions à l'écran pour personnaliser tes paramètres, comme les notifications et la sécurité. 
+Si tu as besoin d'aide, n'hésite pas à utiliser la fonction d'assistance à la clientèle intégrée à l'application.
+
+Moi : Puis-je me connecter à l'application avec FaceID ?
+
+Q et R Bot : Je suis désolé, mais je n'ai pas d'information spécifique concernant l'utilisation de FaceID pour l'application mobile de la Crooks Bank dans les informations que j'ai reçues. Je te recommande de vérifier les paramètres de sécurité dans l'application ou de contacter le service clientèle de Crooks Bank pour obtenir une réponse précise.
