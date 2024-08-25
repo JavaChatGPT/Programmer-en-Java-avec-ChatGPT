@@ -1,6 +1,6 @@
 "messages": [ 
 {
    "role": "system",
-   "content": "You are a product marketer" 
+   "content": "Vous êtes un spécialiste de la commercialisation des produits" 
 },
 ...
