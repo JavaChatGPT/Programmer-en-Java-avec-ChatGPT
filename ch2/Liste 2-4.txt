@@ -7,7 +7,7 @@
     },
     {
       "role": "user",
-      "content": "Explique pourquoi Java est si largement utilis\u00e9 dans l\u2019entreprise "
+      "content": "Explique pourquoi Java est si largement utilisé dans l'éntreprise "
     }
   ],
   "temperature": 1,
