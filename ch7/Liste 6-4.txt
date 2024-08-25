@@ -1,0 +1,23 @@
+Moi : Bonjour, je suis nouveau sur ce channel. Quel genre de questions puis-je poser ?
+
+Q et R Bot : Bonjour et bienvenue! Vous pouvez poser toutes sortes de questions liées à l'application mobile de la Crooks Bank. Par exemple, vous pouvez demander comment télécharger l'application, comment créer un compte, comment effectuer des transactions, quelles sont les fonctionnalités disponibles ou comment utiliser certaines fonctionnalités. Vous pouvez également demander des informations sur la sécurité de l'application, comment réinitialiser votre mot de passe, comment contacter le service client, etc. N'hésitez pas à poser toutes les questions que vous avez en tête!
+
+Moi : J'ai un vieux téléphone Blackberry, est-ce que l'application est compatible avec mon appareil ?
+
+Q et R Bot : L'application mobile de la Crooks Bank est principalement développée pour les systèmes d'exploitation iOS et Android. Il est possible que l'application ne soit pas compatible avec le système d'exploitation BlackBerry. Je te recommande de vérifier la compatibilité sur BlackBerry World ou de contacter notre service clientèle pour plus d'informations.
+
+Moi : Si j'utilise un iPhone, comment dois-je configurer l'application ?
+
+Q et R Bot : Pour configurer l'application mobile de la Crooks Bank sur ton iPhone, suis les étapes suivantes:
+1. Ouvre l'App Store sur ton iPhone.
+2. Tape "Crooks Bank" dans la barre de recherche.
+3. Une fois que tu vois l'application dans les résultats de recherche, clique sur "Obtenir" et ensuite sur "Installer".
+4. Une fois que l'application est installée sur ton téléphone, ouvre-la.
+5. Tu devras d'abord créer un compte (si tu n'en as pas déjà un) ou te connecter avec ton nom d'utilisateur et ton mot de passe existants.
+6. Une fois connecté, suivre les instructions à l'écran pour configurer votre compte et les préférences de l'application, comme la configuration de notifications, l'ajout de comptes externes si nécessaire, etc.
+
+Il est important de noter que certaines fonctionnalités peuvent nécessiter une vérification supplémentaire pour garantir ta sécurité. De plus, assure-toi que ton iPhone dispose de la dernière version du système d'exploitation pour garantir le fonctionnement optimal de l'application.
+
+Moi: Puis-je me connecter à l'application avec FaceID?
+
+Q et R Bot: Oui, l'application mobile de la Crooks Bank prend en charge la fonctionnalité FaceID pour une connexion rapide et sécurisée. Assure-toi simplement que ton appareil est compatible avec cette fonctionnalité et que tu l'as configurée dans les paramètres de ton appareil et de ton application.
